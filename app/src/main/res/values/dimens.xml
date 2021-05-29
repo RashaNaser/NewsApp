@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_height">200dp</dimen>
+
+    //margin
+    <dimen name="layout_margin">12dp</dimen>
+    <dimen name="small_margin">5dp</dimen>
+
+    //padding
+    <dimen name="padding">10dp</dimen>
+
+    //card
+    <dimen name="card_corner_radius">4dp</dimen>
+
+    //setting up the HTTP request
+    <dimen name="READ_TIME_OUT">10000</dimen>
+    <dimen name="CONNECT_TIME_OUT">15000</dimen>
+
+</resources>
